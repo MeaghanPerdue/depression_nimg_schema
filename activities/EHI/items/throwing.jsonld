@@ -8,7 +8,7 @@
   "version": "0.0.1",
   "question": "Throwing",
   "ui": {
-    "inputType": "radio"
+    "inputType": "radio",
     "responseOptions": "../leftRightValueConstraints.jsonld"
   }
 }
