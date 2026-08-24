@@ -28,9 +28,6 @@
           "prefLabel": { "en": "EHI" }
         }
       ],
-      "order": [
-          "rl:PHQ-9/PHQ9_schema",
-          "EHI_short_schema"
-          ]
+      "order": ["rl:PHQ-9/PHQ9_schema"]
     }
 }
