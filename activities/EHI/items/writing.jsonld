@@ -8,7 +8,7 @@
   "version": "0.0.1",
   "question": "Writing",
   "ui": {
-    "inputType": "radio"
-  },
-  "responseOptions": "../leftRightValueConstraints.jsonld"
+    "inputType": "radio",
+    "responseOptions": "../leftRightValueConstraints.jsonld"
+  }
 }
