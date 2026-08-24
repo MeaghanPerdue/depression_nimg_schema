@@ -23,6 +23,11 @@
           "prefLabel": { "en": "Depression" }
         },
           {
+          "isAbout": "../activities/EHI/edinburgh_handedness_inventory_short.jsonld",
+          "variableName": "EHI_short_schema",
+          "prefLabel": { "en": "EHI" }
+        },
+          {
           "isAbout": "rl:ThankYou/ThankYou_schema",
           "variableName": "ThankYou_schema",
           "prefLabel": { "en": "ThankYou" }
@@ -30,6 +35,7 @@
       ],
       "order": [
         "rl:PHQ-9/PHQ9_schema",
+        "EHI_short_schema",
         "rl:ThankYou/ThankYou_schema"
         ]
     }
