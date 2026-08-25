@@ -6,7 +6,7 @@
       }
     ],
     "@type": "reproschema:Protocol",
-    "@id": "depression_nimg_schema.jsonld",
+    "@id": "depression_nimg_schema",
     "prefLabel": "depression neuroimaging study",
     "description": "a study on linguistic processing in depression",
     "schemaVersion": "1.0.0-rc1",
