@@ -9,7 +9,7 @@
   "citation": "10.1080/1357650X.2013.783045",
   "preamble": "Please indicate your preferences in the use of hands in the following activities or objects:",
   "ui": {
-    "order": ["items/writing", "items/throwing", "items/EHI_results"],
+    "order": ["items/writing", "items/throwing"],
     "shuffle": false,
     "addProperties": [
       {
@@ -21,18 +21,7 @@
         "variableName": "throwing",
         "isAbout": "items/throwing",
         "isVis": true
-      },
-      {
-        "isAbout": "items/EHI_results",
-        "variableName": "EHI_results",
-        "isVis": true
       }
     ]
-  },
-  "compute": [
-    {
-      "variableName": "EHI_results",
-      "jsExpression": "( writing + throwing ) / 2"
-    }
-  ]
+  }
 }
