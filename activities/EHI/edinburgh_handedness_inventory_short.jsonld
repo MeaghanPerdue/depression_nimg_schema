@@ -14,7 +14,7 @@
     "addProperties": [
       {
         "variableName": "writing",
-        "isAbout": "items/writing",
+        "isAbout": "activities/EHI/items/writing",
         "isVis": true
       }
     ]
