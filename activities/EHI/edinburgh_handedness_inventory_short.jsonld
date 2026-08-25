@@ -9,17 +9,12 @@
   "citation": "10.1080/1357650X.2013.783045",
   "preamble": "Please indicate your preferences in the use of hands in the following activities or objects:",
   "ui": {
-    "order": ["items/writing", "items/throwing"],
+    "order": ["items/writing"],
     "shuffle": false,
     "addProperties": [
       {
         "variableName": "writing",
         "isAbout": "items/writing",
-        "isVis": true
-      },
-      {
-        "variableName": "throwing",
-        "isAbout": "items/throwing",
         "isVis": true
       }
     ]
