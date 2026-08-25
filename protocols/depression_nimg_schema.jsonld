@@ -23,7 +23,7 @@
           "prefLabel": { "en": "Depression" }
         },
           {
-          "isAbout": "../activities/EHI/edinburgh_handedness_inventory_short.jsonld",
+          "isAbout": "../activities/EHI/edinburgh_handedness_inventory_short",
           "variableName": "EHI_short_schema",
           "prefLabel": { "en": "EHI" }
         },
