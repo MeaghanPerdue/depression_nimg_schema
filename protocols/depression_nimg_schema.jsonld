@@ -36,7 +36,7 @@
       ],
       "order": [
         "rl:PHQ-9/PHQ9_schema",
-        "EHI_short_schema",
+        "../activities/EHI/edinburgh_handedness_inventory_short",
         "rl:ThankYou/ThankYou_schema"
         ]
     }
