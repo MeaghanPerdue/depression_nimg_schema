@@ -6,10 +6,7 @@
   "description": "Edinburgh handedness inventory",
   "schemaVersion": "1.0.0-rc1",
   "version": "0.0.1",
-  "ui": {
-    "inputType": "number",
-    "readonlyValue": true
-  },
+  "ui": {},
   "responseOptions": {
     "valueType": "xsd:integer",
     "minValue": -100,
